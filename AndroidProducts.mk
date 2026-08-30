@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pdx234.mk
+    $(LOCAL_DIR)/voltage_pdx234.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pdx234-user \
-    lineage_pdx234-userdebug \
-    lineage_pdx234-eng
+    voltage_pdx234-user \
+    voltage_pdx234-userdebug \
+    voltage_pdx234-eng
