@@ -27,10 +27,6 @@ $(call inherit-product, vendor/voltage/config/common_full_phone.mk)
 IS_PHONE := true
 
 PRODUCT_BUILD_PROP_OVERRIDES := \
-    DeviceName=XQ-DQ72 \
-    DeviceProduct=XQ-DQ72 \
-    SystemDevice=XQ-DQ72 \
-    SystemName=XQ-DQ72 \
     BuildFingerprint=Sony/XQ-DQ72/XQ-DQ72:15/67.2.A.3.178/067002A003017800521143226:user/release-keys \
     BuildDesc="XQ-DQ72-user 15 67.2.A.3.178 067002A003017800521143226 release-keys"
 
